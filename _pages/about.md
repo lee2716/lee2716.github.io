@@ -14,4 +14,4 @@ Currently, I am pursuing an **M.S. degree** in **Telecommunications Engineering*
 
 ## Interests
 
-My motivation stems from the transformative potential of **AI** to address real-world challenges. I am focused on deploying **Deep Learning Models** and **Small Language Models** in **Embedded Systems**, combining my passion for **Deep Learning** and **AI-Driven Solutions**.
+My motivation stems from the transformative potential of **AI** to address real-world challenges. I am focused on deploying **Deep Learning Models** in **Embedded Systems**, combining my passion for **Deep Learning** and **AI-Driven Solutions**.
